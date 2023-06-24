@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.cone.GreetingResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-24T03:38:25" hostname="Vighneshas-MacBook-Pro.local" time="0.99">
+  <properties/>
+  <testcase name="testHelloEndpoint()" classname="io.cone.GreetingResourceTest" time="0.99"/>
+  <system-out><![CDATA[2023-06-24 09:08:25,858 INFO  [io.quarkus] (Test worker) openid 1.0-SNAPSHOT on JVM (powered by Quarkus 3.1.2.Final) started in 2.221s. Listening on: http://localhost:8081
+2023-06-24 09:08:25,860 INFO  [io.quarkus] (Test worker) Profile test activated. 
+2023-06-24 09:08:25,860 INFO  [io.quarkus] (Test worker) Installed features: [cdi, oidc, resteasy, security, smallrye-context-propagation, vertx]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
